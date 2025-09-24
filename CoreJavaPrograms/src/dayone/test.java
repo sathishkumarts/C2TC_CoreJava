@@ -1,10 +1,10 @@
-package Day1;
+package dayone;
 
-public class FirstProgram {
+public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello vanakkam");
+		System.out.print("HI");
 
 	}
 
