@@ -1,5 +1,5 @@
 //Program to demonstrate if..else statement
-package daytwo;
+package tnsif.ifet.daytwo;
 
 public class IfElseDemo {
 	public static void main(String[] args) {

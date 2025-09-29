@@ -1,5 +1,5 @@
 //Program to demonstrate  do while loop
-package daytwo;
+package tnsif.ifet.daytwo;
 
 public class DoWhileDemo {
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //Program to demonstrate for each loop
-package daytwo;
+package tnsif.ifet.daytwo;
 public class ForEachLoopDemo {
 	public static void main(String[] args) {
 		int a[]= {10,20,30,40,50};	

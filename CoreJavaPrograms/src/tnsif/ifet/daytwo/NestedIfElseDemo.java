@@ -1,4 +1,4 @@
-package daytwo;
+package tnsif.ifet.daytwo;
 
 public class NestedIfElseDemo {
 

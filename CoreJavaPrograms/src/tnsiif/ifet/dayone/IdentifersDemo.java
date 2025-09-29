@@ -1,5 +1,5 @@
 //Program to demonstrate identifiers 
-package dayone;
+package tnsiif.ifet.dayone;
 
 public class IdentifersDemo {
 

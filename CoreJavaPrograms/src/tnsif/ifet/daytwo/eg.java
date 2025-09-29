@@ -1,10 +1,9 @@
-package dayone;
+package tnsif.ifet.daytwo;
 
-public class test {
+public class eg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("HI");
 
 	}
 

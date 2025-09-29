@@ -1,5 +1,5 @@
 //program to demonstrate char data type
-package dayone;
+package tnsiif.ifet.dayone;
 
 public class CharDemo {
 	public static void main(String[] args) {
