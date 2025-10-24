@@ -1,5 +1,5 @@
 //Program to Demonstrate Arrays Class Methods
-package dayTen;
+package dayten;
 
 import java.util.Arrays;
 

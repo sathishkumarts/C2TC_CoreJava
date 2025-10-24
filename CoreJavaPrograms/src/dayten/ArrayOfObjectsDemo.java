@@ -1,5 +1,5 @@
 //Program to demonstrate Array of Student Objects
-package dayTen;
+package dayten;
 
 public class ArrayOfObjectsDemo {
 

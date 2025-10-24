@@ -1,5 +1,5 @@
 //Program to define class with Multidimensional array
-package dayTen;
+package dayten;
 
 public class MLArray
 {

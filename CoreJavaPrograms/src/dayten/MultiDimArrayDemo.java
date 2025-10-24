@@ -1,5 +1,5 @@
 //Program to demonstrate Multidimensional Array
-package dayTen;
+package dayten;
 
 public class MultiDimArrayDemo {
 	public static void main(String[] args) {

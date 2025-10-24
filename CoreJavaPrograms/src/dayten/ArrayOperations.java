@@ -1,5 +1,5 @@
 //Program to define class with array operations
-package dayTen;
+package dayten;
 
 public class ArrayOperations
 {

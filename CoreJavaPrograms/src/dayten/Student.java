@@ -1,5 +1,5 @@
 //Student entity
-package dayTen;
+package dayten;
 
 public class Student {
 	private int rollNo;
